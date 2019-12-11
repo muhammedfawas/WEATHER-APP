@@ -1,0 +1,28 @@
+.body{
+    background: url("./10.jpg");
+    background-size:cover;
+    background-repeat: norepeat;
+    margin:0px;
+    
+width:100%;
+padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.temp{
+  color:white;
+    font-size: 75px;
+    text-shadow: 1px 1px 1px black;
+
+}
+.card{
+    background: transparent;
+    box-shadow:inset 1px 1px  39px 1px #666;
+}
+.icon{
+    position: relative;
+    left: 378px;
+}
+.des{
+    font-size: 24px;
+    color:darkred;
+}
